@@ -3,5 +3,5 @@
 
 |Resourses    | Summary     | Some Notes     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
+| Learn SQL     |  Learn SQL       | [note](./readNote/READNOT.md)   |
 | Paragraph   | Text        | And more      |
