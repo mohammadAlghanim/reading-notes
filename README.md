@@ -16,3 +16,4 @@
 | Data Structures    |  Data Structures    | [Data Structures  ](./readNote/DataStructuresAndAlgorithms.md)   |
 | [class03](https://realpython.com/read-write-files-python/)    |  Read class03    | [ReadClass03](./readNote/ReadClass03.md)   |
 | [class04](https://www.learnpython.org/en/Classes_and_Objects)    |  Read class04    | [ReadClass04](./readNote/ReadClass04.md)   |
+|[ Read: Linked Lists](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)|| [Read: Linked Lists](./readNote/ReadLinkedLists.md)|
