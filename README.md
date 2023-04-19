@@ -19,3 +19,4 @@
 |[ Read: Linked Lists](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)|| [Read: Linked Lists](./readNote/ReadLinkedLists.md)|
 | class06    |  Read class06   | [ReadClass06](./readNote/ReadClass06.md)   |
 | class07    |  Read class07   | [ReadClass07](./readNote/ReadClass07.md)   |
+| class08    |  Read class08   | [ReadClass08](./readNote/ReadClass08.md)   |
