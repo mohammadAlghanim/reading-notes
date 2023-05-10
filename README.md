@@ -20,7 +20,8 @@
 | class06    |  Read class06   | [ReadClass06](./readNote/ReadClass06.md)   |
 | class07    |  Read class07   | [ReadClass07](./readNote/ReadClass07.md)   |
 | class08    |  Read class08   | [ReadClass08](./readNote/ReadClass08.md)   |
-| class09    |  Read class08   | [ReadClass08](./readNote/ReadClass09.md)   |
+| class09    |  Read class09   | [ReadClass09](./readNote/ReadClass09.md)   |
 | Read: Stacks & Queues    |  Read: Stacks & Queues   | [Read: Stacks & Queues](./readNote/ReadStacks%26Queues.md)   |
 | class11    |  Read class11   | [ReadClass11](./readNote/ReadClass11.md)   |
 | class12    |  Read class12   | [ReadClass12](./readNote/ReadClass12.md)   |
+| class13    |  Read class13   | [ReadClass13](./readNote/ReadClass13.md)   |
