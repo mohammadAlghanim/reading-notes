@@ -33,3 +33,4 @@
 | class26    |  Read class26   | [ReadClass26](./readNote/ReadClass26.md)   |
 | class27    |  Read class27   | [ReadClass27](./readNote/ReadClass27.md)   |
 | class28    |  Read class28   | [ReadClass28](./readNote/ReadClass28.md)   |
+| class29    |  Read class29   | [ReadClass29](./readNote/ReadClass29.md)   |
