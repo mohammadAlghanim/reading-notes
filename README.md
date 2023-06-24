@@ -35,3 +35,4 @@
 | class28    |  Read class28   | [ReadClass28](./readNote/ReadClass28.md)   |
 | class29    |  Read class29   | [ReadClass29](./readNote/ReadClass29.md)   |
 | class30    |  Read class30   | [HashTable](./readNote/ReadHashTable.md)   |
+| class31    |  Read class31   | [HashTable](./readNote/ReadClass31.md)   |
