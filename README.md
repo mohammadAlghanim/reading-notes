@@ -39,3 +39,4 @@
 | class32    |  Read class32   | [ReadClass32](./readNote/ReadClass32.md)   |
 | class33    |  Read class33   | [ReadClass33](./readNote/ReadClass33.md)   |
 | class34    |  Read class34   | [ReadClass34](./readNote/ReadClass34.md)   |
+| class35    |  Read class35   | [ReadClass35](./readNote/ReadGraphs35.md)   |
