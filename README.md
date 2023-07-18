@@ -42,3 +42,4 @@
 | class35    |  Read class35   | [ReadClass35](./readNote/ReadGraphs35.md)   |
 | class36    |  Read class36   | [ReadClass36](./readNote/ReadClass36.md)   |
 | class37    |  Read class37   | [ReadClass37](./readNote/ReadClass37.md)   |
+| class38    |  Read class38   | [ReadClass38](./readNote/ReadClass38.md)   |
