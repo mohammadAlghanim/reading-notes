@@ -1,0 +1,5 @@
+SAN FRANCISCO — In an open letter posted to Microsoft’s internal message board on Tuesday, more than 100 employees protested the software maker’s work with Immigration and Customs Enforcement and asked the company to stop working with the agency, which has been separating migrant parents and their children at the border with Mexico.
+
+“We believe that Microsoft must take an ethical stand, and put children and families above profits,” said the letter, which was addressed to the chief executive, Satya Nadella. The letter pointed to a $19.4 million contract that Microsoft has with ICE for processing data and artificial intelligence capabilities.
+
+Calling the separation of families “inhumane,” the employees added: “As the people who build the technologies that Microsoft profits from, we refuse to be complicit. We are part of a growing movement, comprised of many across the industry who recognize the grave responsibility that those creating powerful technology have to ensure what they build is used for good, and not for harm.”
